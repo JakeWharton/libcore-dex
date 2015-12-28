@@ -3,6 +3,11 @@ Change Log
 
 For library changes see https://android.googlesource.com/platform/libcore/+log/master/dex/src
 
+Version 2 *(2015-12-28)*
+------------------------
+
+Fix packaging of class files. Same SHA as v1.
+
 
 Version 1 *(2015-12-28)*
 ------------------------
