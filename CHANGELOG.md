@@ -3,6 +3,12 @@ Change Log
 
 For library changes see https://android.googlesource.com/platform/libcore/+log/master/dex/src
 
+Version 3 *(2016-06-08)*
+------------------------
+
+`platform/libcore` SHA e7bf89fa1d0aeafa481d2d5368f266ce9c986a1b
+
+
 Version 2 *(2015-12-28)*
 ------------------------
 
