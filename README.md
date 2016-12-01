@@ -13,14 +13,14 @@ Maven:
 <dependency>
   <groupId>com.jakewharton.android.repackaged</android>
   <artifactId>libcore-dex</artifactId>
-  <version>2</version>
+  <version>7.1.0_r7</version>
 </dependency>
 ```
 
 Gradle:
 
 ```groovy
-compile 'com.jakewharton.android.repackaged:libcore-dex:2'
+compile 'com.jakewharton.android.repackaged:libcore-dex:7.1.0_r7'
 ```
 
 

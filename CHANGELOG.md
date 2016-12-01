@@ -1,7 +1,14 @@
 Change Log
 ==========
 
-For library changes see https://android.googlesource.com/platform/libcore/+log/master/dex/src
+For library changes see https://android.googlesource.com/platform/libcore/+log/master/dex
+
+
+Version 7.1.0_r7 *(2016-12-01)*
+-------------------------------
+
+`platform/libcore` tag `android-7.1.0_r7`
+
 
 Version 3 *(2016-06-08)*
 ------------------------

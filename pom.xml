@@ -11,7 +11,7 @@
 
   <groupId>com.jakewharton.android.repackaged</groupId>
   <artifactId>libcore-dex</artifactId>
-  <version>4-SNAPSHOT</version>
+  <version>7.1.0_r7-SNAPSHOT</version>
 
   <name>platform/libcore dex</name>
   <description>A standalone packaging of AOSP's platform/libcore dex library.</description>
