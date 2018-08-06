@@ -1,5 +1,9 @@
-Android libcore Dex Library
+DEPRECATED: Android libcore Dex Library
 ===========================
+
+**The sources for this artifact are now included in https://github.com/JakeWharton/dalvik-dx**
+
+---
 
 A standalone packaging of AOSP's platform/libcore dex library.
 
